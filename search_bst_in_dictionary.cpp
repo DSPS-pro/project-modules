@@ -1,3 +1,8 @@
+//thats how we do pull requests
+//what next how to reflect these changes in the other account??
+
+
+
 #include "iostream"
 #include <string.h>
 #include <stdlib.h>
