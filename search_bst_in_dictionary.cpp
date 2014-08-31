@@ -1,6 +1,6 @@
 //thats how we do pull requests
 //what next how to reflect these changes in the other account??
-
+//now i want to know what is fork??
 
 
 #include "iostream"
